@@ -1,5 +1,5 @@
 <h3 align="center">
-  :leaves: Clone Netflix :leaves:
+  :leaves: Jogo da memoria :leaves:
 </h3>
 
 <h1 align="center">
